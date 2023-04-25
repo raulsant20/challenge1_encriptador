@@ -1,0 +1,18 @@
+body {
+  background-color: #f3f5fc;
+}
+
+.section {
+  display: inline-block;
+}
+
+.section_one {
+  width: 60vw;
+}
+
+.section_two {
+  width: 300px;
+  height: 80vh;
+  background-color: #fff;
+  border-radius: 20px;
+}
